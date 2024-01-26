@@ -1,0 +1,9 @@
+Pages:
+1.Login
+2.Registration
+ 2.1 Tenant
+ 2.2 owner
+3.Home(default)(anonymous)
+4.view house
+5.add/edit house
+6.payment
